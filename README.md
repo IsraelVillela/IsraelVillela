@@ -1,6 +1,6 @@
 # Hi there, I'm Israel 👋 
 
-## I'm a Son, Dog Father, Developer, and a someone who is always learning!!
+## I'm a Dog Father, Software Engineer, and a someone who is always learning!!
 
 - 🔭 In my past career I was an automotive technician turned Service Advisor
 - 🌱 I’m currently learning non-stop
