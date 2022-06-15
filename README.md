@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[(./img/linkedin-light.svg)](https://www.linkedin.com/in/israel-villela-swe)
+[LinkedIn](https://www.linkedin.com/in/israel-villela-swe)
 
 
 ### Languages and Tools:
