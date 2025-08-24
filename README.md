@@ -1,12 +1,10 @@
 # Hi there, I'm Israel 👋 
 
-## I'm a Dog Father, Software Engineer, and a someone who is always learning!!
+## I'm a Dog Father, and a someone who is always learning!!
 
-- 🔭 In my past career I was an automotive technician turned Service Advisor
 - 🌱 I’m currently learning non-stop
 - 👯 I’m looking forward to collaborating with other Software Engineers
-- 🥅 2022 Goals: Start my career as an Engineer and Learn about web3
-- ⚡ Fun fact: I love to work on anything mechanical, dirtbikes, cars, RC cars
+- ⚡ Fun fact: I love to work on anything mechanical, dirtbikes, cars
 
 ### Connect with me:
 
